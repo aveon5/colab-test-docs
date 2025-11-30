@@ -45,3 +45,8 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+
+let's start a new documentation for the Leela project. It should have the following structure:
+1. What is Leela?
+2. How to work with the App
